@@ -8,27 +8,24 @@ Technical author and developer focused on practical, production-ready systems.
 
 **By J. Reevey (Jennifer Reevey)**
 
-**Trustworthy AI Engineering with Python** is a practical guide to designing, evaluating, securing, and operating AI and machine learning systems beyond the prototype stage.
+**Trustworthy AI Engineering with Python** is a practical technical book about building secure, reliable, and production-ready artificial intelligence and machine learning systems with Python.
 
-The book focuses on the engineering work required to make AI systems measurable, observable, secure, auditable, resilient, and maintainable in production.
+Written for developers, engineers, data professionals, and technical leaders, the book explores the broader engineering practices behind trustworthy AI, from system design and evaluation to security, reliability, monitoring, and responsible deployment.
 
 [View the book on Barnes & Noble](https://www.barnesandnoble.com/w/trustworthy-ai-engineering-with-python-j-reevey/1151500303?ean=2940185443231)
 
 ### What the book covers
 
-- AI and machine learning system architecture
-- Python-based AI engineering
-- Model evaluation and validation
-- Reliability and failure analysis
-- Threat modeling and security controls
-- Privacy engineering
-- Data quality and provenance
-- Monitoring and observability
-- Drift and anomaly detection
-- Incident response
-- Human oversight
-- Safer automation
-- Production deployment considerations
+The book provides a practical overview of the engineering disciplines required to move AI and machine learning systems from experimentation into dependable real-world use.
+
+It broadly covers:
+
+- Building and evaluating AI and machine learning systems
+- Python-based engineering for production environments
+- Security, reliability, privacy, and operational risk
+- Monitoring, oversight, and maintaining trustworthy systems over time
+
+The emphasis is on practical engineering principles rather than theory alone.
 
 ### From model to system
 
@@ -84,6 +81,6 @@ My work spans Python, machine learning, automation, software engineering, securi
 **Title:** Trustworthy AI Engineering with Python  
 **Author:** J. Reevey  
 **Full name:** Jennifer Reevey  
-**Topics:** AI Engineering, Machine Learning, Python, Security, Reliability
+**Topics:** Trustworthy AI, AI Engineering, Machine Learning, Python, Security, Reliability, Production AI
 
 [Read more or purchase on Barnes & Noble](https://www.barnesandnoble.com/w/trustworthy-ai-engineering-with-python-j-reevey/1151500303?ean=2940185443231)
