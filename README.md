@@ -71,26 +71,6 @@ This book is written for readers who understand basic programming or machine lea
 - Engineering students
 - Technical leaders evaluating AI systems
 
-### Engineering principles
-
-**Measurable**  
-Performance and behavior should be evaluated with meaningful metrics.
-
-**Observable**  
-Teams should be able to understand what a production system is doing.
-
-**Secure**  
-Threat modeling and defensive controls should be part of system design.
-
-**Auditable**  
-Important decisions and system behavior should leave useful evidence.
-
-**Resilient**  
-Systems should anticipate failures instead of assuming perfect operation.
-
-**Maintainable**  
-Production AI should be engineered for long-term operation, not only demonstration.
-
 ## About the author
 
 I publish as **J. Reevey**.
