@@ -1,83 +1,23 @@
 # Jennifer Reevey
 
-**Python · Machine Learning · AI Engineering · Automation · Security**
+**Python · AI/ML · Software Engineering · Cybersecurity**
 
-Technical author and developer focused on practical, production-ready systems.
+I build practical software, automation, and machine learning systems, and write about dependable production engineering.
+
+[Portfolio](https://jenniferreevey.dev/) · [LinkedIn](https://www.linkedin.com/in/jennifer-reevey-106a1661/) · [Public repositories](https://github.com/jrennr?tab=repositories)
+
+## Selected projects · 2026
+
+- **[Capital Kit](https://jrennr.github.io/capital-kit-lite/)**: A lightweight capital-readiness product for founders.
+- **[Feral Chef](https://apps.apple.com/us/app/feral-chef/id6778989072)**: A published camera-to-recipe mobile app that turns available ingredients into recipe suggestions.
+- **[Get Hired or Die](https://jenniferreevey.dev/get-hired-or-die.html)**: An original JavaScript/Canvas browser game with résumé delivery, trapdoors, and adaptive gameplay logic.
 
 ## Trustworthy AI Engineering with Python
 
-**J. Reevey**
+*From Prototype to Production: Practical Controls, Measurable Evidence, and Safer Automation*
 
-**Trustworthy AI Engineering with Python** is a practical technical book about building secure, reliable, and production-ready artificial intelligence and machine learning systems with Python.
+By **J Reevey**, the author name used by Jennifer Reevey. Practical guidance for intermediate Python developers on reliability, evaluation, measurable controls, human oversight, and safer automation.
 
-Written for developers, engineers, data professionals, and technical leaders, the book explores the broader engineering practices behind trustworthy AI, from system design and evaluation to security, reliability, monitoring, and responsible deployment.
+[Book page](https://jenniferreevey.dev/trustworthy-ai-engineering-with-python.html) · [Barnes & Noble](https://www.barnesandnoble.com/w/trustworthy-ai-engineering-with-python-j-reevey/1151500303?ean=2940185443231) · [Read a sample](https://nook.barnesandnoble.com/products/2940185443231/sample?sourceEan=2940185443231) · [Google Books](https://books.google.com/books/about/Trustworthy_AI_Engineering_with_Python.html?id=asATEgAAQBAJ)
 
-[View the book on Barnes & Noble](https://www.barnesandnoble.com/w/trustworthy-ai-engineering-with-python-j-reevey/1151500303?ean=2940185443231)
-
-### What the book covers
-
-The book provides a practical overview of the engineering disciplines required to move AI and machine learning systems from experimentation into dependable real-world use.
-
-It broadly covers:
-
-- Building and evaluating AI and machine learning systems
-- Python-based engineering for production environments
-- Security, reliability, privacy, and operational risk
-- Monitoring, oversight, and maintaining trustworthy systems over time
-
-The emphasis is on practical engineering principles rather than theory alone.
-
-### From model to system
-
-A production AI application is more than a model.
-
-```text
-Data
-  ↓
-Validation
-  ↓
-Model
-  ↓
-Evaluation
-  ↓
-Application
-  ↓
-Monitoring
-  ↓
-Security
-  ↓
-Human Oversight
-  ↓
-Incident Response
-  ↓
-Continuous Improvement
-```
-
-The central engineering question is not only whether a model works. It is whether the complete system can be measured, monitored, investigated, defended, and operated reliably over time.
-
-### Who it is for
-
-This book is written for readers who understand basic programming or machine learning concepts and want to move toward production engineering, including:
-
-- AI and ML engineers
-- Python developers
-- Data scientists
-- Software engineers
-- Security engineers
-- Technical architects
-- Engineering students
-- Technical leaders evaluating AI systems
-
-## About the author
-
-My work spans Python, machine learning, automation, software engineering, security, and applied AI systems, with an emphasis on translating technical concepts into practical systems that can operate reliably outside the laboratory.
-
-[Visit JenniferReevey.dev](https://jenniferreevey.dev/) · [Connect on LinkedIn](https://www.linkedin.com/in/jennifer-reevey-106a1661/) · [View my GitHub repositories](https://github.com/jrennr?tab=repositories)
-
-## Book information
-
-**Title:** Trustworthy AI Engineering with Python  
-**Author:** J. Reevey  
-**Topics:** Trustworthy AI, AI Engineering, Machine Learning, Python, Security, Reliability, Production AI
-
-[Read more or purchase on Barnes & Noble](https://www.barnesandnoble.com/w/trustworthy-ai-engineering-with-python-j-reevey/1151500303?ean=2940185443231)
+Earlier public repositories document my work in machine learning, data engineering, and browser visualization. Additional projects and technical demonstrations are available on request through LinkedIn.
